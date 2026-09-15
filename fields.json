@@ -20,7 +20,7 @@
   "hqZip": "85201",
   "corporateCity": "Mesa",
   "corporateState": "AZ",
-  "hq_source": "FDD Item 1, printed p8 — Hello Sugar Franchise, LLC principal place of business; coordinates best-effort via Nominatim on the FDD street address",
+  "hq_source": "FDD Item 1, printed p8 \u2014 Hello Sugar Franchise, LLC principal place of business; coordinates best-effort via Nominatim on the FDD street address",
   "description": "Hello Sugar is a beauty and wellness franchise specializing in full body waxing, sugaring, and laser hair removal, founded in 2015 and franchising since September 2021 through Hello Sugar Franchise, LLC of Mesa, Arizona. The system offers two models: Flagship salons (initial investment $266,042-$736,250) and Suite locations ($90,984-$127,914), with a $50,000 franchise fee, 6% royalty, and limited protected territories. The 2025 FDD reports 108 outlets open at the end of 2024 (87 franchised suites, 3 company suites, 6 franchised flagships, 12 company flagships), up from 75 a year earlier; trade press in 2026 reports 200+ locations open and developing after a 20-salon acquisition. The franchisor discloses no litigation or bankruptcy, offers no financing, and operates an affiliate ecosystem covering advertising, supplies, virtual reception, and franchisee coaching.",
   "category": "Beauty & Wellness",
   "website": "https://www.hellosugar.salon",
@@ -1043,7 +1043,7 @@
       "type": "absolute"
     },
     "category": {
-      "value": "Beauty & Wellness — hair removal (sugaring/waxing/laser)",
+      "value": "Beauty & Wellness \u2014 hair removal (sugaring/waxing/laser)",
       "source": "FDD Item 1, printed p8; trade press 2026-09-13",
       "type": "absolute"
     },
@@ -1568,7 +1568,7 @@
       "type": "absolute"
     },
     "financingOffered": {
-      "value": "No — franchisor offers no direct or indirect financing and guarantees no note, lease, or obligation",
+      "value": "No \u2014 franchisor offers no direct or indirect financing and guarantees no note, lease, or obligation",
       "source": "FDD Item 10, printed p33",
       "type": "absolute"
     },
@@ -1633,7 +1633,7 @@
       "type": "absolute"
     },
     "alternativeChannelsReserved": {
-      "value": "Yes — franchisor reserves rights to sell products/services in the Territory through alternative channels",
+      "value": "Yes \u2014 franchisor reserves rights to sell products/services in the Territory through alternative channels",
       "source": "FDD Item 12, printed p51",
       "type": "absolute"
     },
@@ -1648,12 +1648,12 @@
       "type": "absolute"
     },
     "trademarksOwner": {
-      "value": "insufficient-data — Item 13 trademark ownership detail not extracted in this build",
+      "value": "insufficient-data \u2014 Item 13 trademark ownership detail not extracted in this build",
       "source": "FDD Item 13, printed p53",
       "type": "absolute"
     },
     "patentsCopyrights": {
-      "value": "insufficient-data — Item 14 patent/copyright detail not extracted in this build",
+      "value": "insufficient-data \u2014 Item 14 patent/copyright detail not extracted in this build",
       "source": "FDD Item 14, printed p53",
       "type": "absolute"
     },
@@ -1663,12 +1663,12 @@
       "type": "absolute"
     },
     "operatingPrincipalRequired": {
-      "value": "Yes for entity franchisees — must hold at least 20% equity, be approved, and complete training",
+      "value": "Yes for entity franchisees \u2014 must hold at least 20% equity, be approved, and complete training",
       "source": "FDD Item 15, printed p54",
       "type": "absolute"
     },
     "generalManagerAllowed": {
-      "value": "Yes — appointed by franchisee, acceptable to franchisor, must complete training",
+      "value": "Yes \u2014 appointed by franchisee, acceptable to franchisor, must complete training",
       "source": "FDD Item 15, printed p54",
       "type": "absolute"
     },
@@ -1738,7 +1738,7 @@
       "type": "absolute"
     },
     "publicFigures": {
-      "value": "insufficient-data — Item 18 public-figure detail not extracted in this build",
+      "value": "insufficient-data \u2014 Item 18 public-figure detail not extracted in this build",
       "source": "FDD Item 18, printed p60",
       "type": "absolute"
     },
@@ -1763,7 +1763,7 @@
       "type": "absolute"
     },
     "item19Audited": {
-      "value": "No — 'The information presented below has not been audited.'",
+      "value": "No \u2014 'The information presented below has not been audited.'",
       "source": "FDD Item 19, printed p68",
       "type": "absolute"
     },
@@ -1773,7 +1773,7 @@
       "type": "absolute"
     },
     "item19ChartDetail": {
-      "value": "insufficient-data — chart graphics on printed pp62-68 did not survive text extraction; OCR pending",
+      "value": "insufficient-data \u2014 chart graphics on printed pp62-68 did not survive text extraction; OCR pending",
       "source": "FDD Item 19, printed pp62-68",
       "type": "absolute"
     },
@@ -1828,7 +1828,7 @@
       "type": "absolute"
     },
     "projectedOpenings2025": {
-      "value": "insufficient-data — projected-openings table not extracted in this build",
+      "value": "insufficient-data \u2014 projected-openings table not extracted in this build",
       "source": "FDD Item 20, printed p78",
       "type": "absolute"
     },
@@ -1853,7 +1853,7 @@
       "type": "absolute"
     },
     "financialStatementsAudited": {
-      "value": "Yes — audited financial statements as of 2024-12-31, 2023-12-31, and 2022-12-31",
+      "value": "Yes \u2014 audited financial statements as of 2024-12-31, 2023-12-31, and 2022-12-31",
       "source": "FDD Item 21, printed p80",
       "type": "absolute"
     },
@@ -1868,22 +1868,22 @@
       "type": "theoretical"
     },
     "riskConfidence": {
-      "value": "medium-high — 178 cited absolute fields support the inputs; Item 19 chart detail remains unextracted (chart OCR pending), so unit-economics inputs carry uncertainty",
+      "value": "medium-high \u2014 178 cited absolute fields support the inputs; Item 19 chart detail remains unextracted (chart OCR pending), so unit-economics inputs carry uncertainty",
       "source": "Computed 2026-09-13",
       "type": "theoretical"
     },
     "unitClosureRate2024": {
-      "value": "~3.2% — 3 franchised suites ceased operations for other reasons in 2024 against ~93 franchised outlets; 0 terminations and 0 non-renewals",
+      "value": "~3.2% \u2014 3 franchised suites ceased operations for other reasons in 2024 against ~93 franchised outlets; 0 terminations and 0 non-renewals",
       "source": "Derived from FDD Item 20, printed pp71-74",
       "type": "theoretical"
     },
     "systemGrowthRate2024": {
-      "value": "~44% — 75 outlets at end-2023 to 108 at end-2024 (suite-to-flagship conversions affect comparability)",
+      "value": "~44% \u2014 75 outlets at end-2023 to 108 at end-2024 (suite-to-flagship conversions affect comparability)",
       "source": "Derived from FDD Item 20, printed pp73-74",
       "type": "theoretical"
     },
     "ongoingFeeBurden": {
-      "value": "~7%+ of gross revenue baseline — 6% royalty (Item 6 p15) + 1% brand fund (Item 6 p18, risable to 2%) + per-location fixed fees (reception, software, tech, BMS: Items 6/11)",
+      "value": "~7%+ of gross revenue baseline \u2014 6% royalty (Item 6 p15) + 1% brand fund (Item 6 p18, risable to 2%) + per-location fixed fees (reception, software, tech, BMS: Items 6/11)",
       "source": "Derived from FDD Items 6/11",
       "type": "theoretical"
     },
@@ -1893,22 +1893,22 @@
       "type": "theoretical"
     },
     "franchisorAlignmentSignal": {
-      "value": "49.7% of franchisor 2024 revenue came from fees paid by franchisees (Item 8 p37) — franchisor economics depend heavily on franchisee payments",
+      "value": "49.7% of franchisor 2024 revenue came from fees paid by franchisees (Item 8 p37) \u2014 franchisor economics depend heavily on franchisee payments",
       "source": "Derived from FDD Item 8, printed p37",
       "type": "theoretical"
     },
     "maturityStage": {
-      "value": "emerging growth — franchising since 2021-09-15 (Item 1 p8), 108 outlets at end-2024 (Item 20), trade press reports 200+ open and developing after a 20-salon acquisition (observed 2026-09-13)",
+      "value": "emerging growth \u2014 franchising since 2021-09-15 (Item 1 p8), 108 outlets at end-2024 (Item 20), trade press reports 200+ open and developing after a 20-salon acquisition (observed 2026-09-13)",
       "source": "Derived from FDD Items 1/20 + trade press",
       "type": "theoretical"
     },
     "capitalFit": {
-      "value": "flagship requires $266,042-$736,250 (Item 7 p25); suite $90,984-$127,914 (Item 7 p29); no franchisor financing (Item 10 p33) — buyer needs substantial liquid capital and third-party funding",
+      "value": "flagship requires $266,042-$736,250 (Item 7 p25); suite $90,984-$127,914 (Item 7 p29); no franchisor financing (Item 10 p33) \u2014 buyer needs substantial liquid capital and third-party funding",
       "source": "Matching assessment vs FDD Items 7/10",
       "type": "matching"
     },
     "experienceFit": {
-      "value": "flagship can run with an approved Operating Principal (20%+ equity) and General Manager (Item 15 p54); no personal esthetician license required for flagship owners — suits investor-operators",
+      "value": "flagship can run with an approved Operating Principal (20%+ equity) and General Manager (Item 15 p54); no personal esthetician license required for flagship owners \u2014 suits investor-operators",
       "source": "Matching assessment vs FDD Items 1/15",
       "type": "matching"
     },
@@ -1918,34 +1918,34 @@
       "type": "matching"
     },
     "lifestyleFit": {
-      "value": "consumer beauty/wellness business — evenings/weekends retail rhythm; fits buyers comfortable with service-retail operations",
+      "value": "consumer beauty/wellness business \u2014 evenings/weekends retail rhythm; fits buyers comfortable with service-retail operations",
       "source": "Matching assessment vs FDD Items 1/16",
       "type": "matching"
     },
     "riskToleranceFit": {
-      "value": "emerging brand (franchising since 2021) with fast growth and unaudited Item 19 figures — fits buyers comfortable with growth-stage risk, not proven-concept buyers",
+      "value": "emerging brand (franchising since 2021) with fast growth and unaudited Item 19 figures \u2014 fits buyers comfortable with growth-stage risk, not proven-concept buyers",
       "source": "Matching assessment vs FDD Items 1/19",
       "type": "matching"
     },
     "locationFit": {
-      "value": "limited protected territory (min lesser of 60,000 people or 2-mile radius; Item 12 p51) — fits buyers who accept territory protection without exclusivity",
+      "value": "limited protected territory (min lesser of 60,000 people or 2-mile radius; Item 12 p51) \u2014 fits buyers who accept territory protection without exclusivity",
       "source": "Matching assessment vs FDD Item 12",
       "type": "matching"
     },
     "timelineFit": {
-      "value": "site selection, approval, and buildout required (flagship buildout $150k-$450k, Item 7 p26); franchise term 10 years with 5-year renewals (Item 17 p56) — fits buyers with a multi-year horizon",
+      "value": "site selection, approval, and buildout required (flagship buildout $150k-$450k, Item 7 p26); franchise term 10 years with 5-year renewals (Item 17 p56) \u2014 fits buyers with a multi-year horizon",
       "source": "Matching assessment vs FDD Items 7/12/17",
       "type": "matching"
     },
     "supportFit": {
-      "value": "strong affiliate service ecosystem (media, remote reception, supplies, coaching: Item 1 pp10-11; Item 8 p37) — fits buyers who value done-for-you marketing/ops support over full independence",
+      "value": "strong affiliate service ecosystem (media, remote reception, supplies, coaching: Item 1 pp10-11; Item 8 p37) \u2014 fits buyers who value done-for-you marketing/ops support over full independence",
       "source": "Matching assessment vs FDD Items 1/8/11",
       "type": "matching"
     },
     "netWorthRequirement": "not disclosed in FDD",
-    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "liquidCapitalRequirement": "not disclosed in FDD",
-    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "pinVerification": {
       "run_at": "2026-09-13T01:39:16Z",
       "all_verified": true,
@@ -1954,16 +1954,16 @@
     "pinsUpdatedAt": "2026-09-13T01:39:16Z"
   },
   "netWorthRequirement": "not disclosed in FDD",
-  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "liquidCapitalRequirement": "not disclosed in FDD",
-  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "pinVerification": {
-    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
-    "run_at": "2026-09-13T01:39:16Z",
+    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode; 50km tolerance",
+    "run_utc": "2026-09-15T02:47:54.179512+00:00",
     "pins_total": 93,
     "pins_verified": 93,
-    "pins_unverifiable": 0,
     "pins_mismatch": 0,
+    "pins_unverifiable": 0,
     "all_verified": true,
     "per_pin": [
       {
@@ -1975,9 +1975,10 @@
           -94.208787
         ],
         "geocoded": [
-          36.3728608,
+          36.372861,
           -94.208787
         ],
+        "geocode_query": "Bentonville, Arkansas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -1990,9 +1991,10 @@
           -110.974847
         ],
         "geocoded": [
-          32.2228765,
+          32.222876,
           -110.974847
         ],
+        "geocode_query": "Tucson, Arizona, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2005,9 +2007,10 @@
           -110.974847
         ],
         "geocoded": [
-          32.2228765,
+          32.222876,
           -110.974847
         ],
+        "geocode_query": "Tucson, Arizona, United States",
         "distance_km": 0.13,
         "status": "VERIFIED"
       },
@@ -2020,9 +2023,10 @@
           -114.6203217
         ],
         "geocoded": [
-          32.7210307,
-          -114.6203217
+          32.721031,
+          -114.620322
         ],
+        "geocode_query": "Yuma, Arizona, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2035,9 +2039,10 @@
           -104.8733376
         ],
         "geocoded": [
-          39.7401441,
-          -104.8733376
+          39.740144,
+          -104.873338
         ],
+        "geocode_query": "Aurora, Colorado, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2050,9 +2055,10 @@
           -105.270545
         ],
         "geocoded": [
-          40.0149856,
+          40.014986,
           -105.270545
         ],
+        "geocode_query": "Boulder, Colorado, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2065,9 +2071,10 @@
           -104.825348
         ],
         "geocoded": [
-          38.8339578,
+          38.833958,
           -104.825348
         ],
+        "geocode_query": "Colorado Springs, Colorado, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2080,9 +2087,10 @@
           -104.984862
         ],
         "geocoded": [
-          39.7392364,
+          39.739236,
           -104.984862
         ],
+        "geocode_query": "Denver, Colorado, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2095,9 +2103,10 @@
           -105.0621833
         ],
         "geocoded": [
-          39.7457238,
-          -105.0621833
+          39.745724,
+          -105.062183
         ],
+        "geocode_query": "Edgewater, Colorado, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2113,6 +2122,7 @@
           39.613321,
           -105.016649
         ],
+        "geocode_query": "Littleton, Colorado, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2125,9 +2135,10 @@
           -105.0372046
         ],
         "geocoded": [
-          39.8366528,
-          -105.0372046
+          39.836653,
+          -105.037205
         ],
+        "geocode_query": "Westminster, Colorado, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2140,9 +2151,10 @@
           -72.8320435
         ],
         "geocoded": [
-          41.7198216,
-          -72.8320435
+          41.719822,
+          -72.832043
         ],
+        "geocode_query": "Farmington, Connecticut, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2155,9 +2167,10 @@
           -72.608146
         ],
         "geocoded": [
-          41.7123218,
+          41.712322,
           -72.608146
         ],
+        "geocode_query": "Glastonbury, Connecticut, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2170,9 +2183,10 @@
           -73.0570603
         ],
         "geocoded": [
-          41.2222218,
-          -73.0570603
+          41.222222,
+          -73.05706
         ],
+        "geocode_query": "Milford, Connecticut, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2185,9 +2199,10 @@
           -80.1935973
         ],
         "geocoded": [
-          25.7741566,
-          -80.1935973
+          25.774157,
+          -80.193597
         ],
+        "geocode_query": "Miami, Florida, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2200,9 +2215,10 @@
           -81.379045
         ],
         "geocoded": [
-          28.5421218,
+          28.542122,
           -81.379045
         ],
+        "geocode_query": "Orlando, Florida, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2215,9 +2231,10 @@
           -81.379045
         ],
         "geocoded": [
-          28.5421218,
+          28.542122,
           -81.379045
         ],
+        "geocode_query": "Orlando, Florida, United States",
         "distance_km": 0.13,
         "status": "VERIFIED"
       },
@@ -2230,9 +2247,10 @@
           -81.3781965
         ],
         "geocoded": [
-          28.5421218,
+          28.542122,
           -81.379045
         ],
+        "geocode_query": "Orlando, Florida, United States",
         "distance_km": 0.13,
         "status": "VERIFIED"
       },
@@ -2245,9 +2263,10 @@
           -82.4583107
         ],
         "geocoded": [
-          27.9449854,
-          -82.4583107
+          27.944985,
+          -82.458311
         ],
+        "geocode_query": "Tampa, Florida, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2260,9 +2279,10 @@
           -82.4583107
         ],
         "geocoded": [
-          27.9449854,
-          -82.4583107
+          27.944985,
+          -82.458311
         ],
+        "geocode_query": "Tampa, Florida, United States",
         "distance_km": 0.13,
         "status": "VERIFIED"
       },
@@ -2275,9 +2295,10 @@
           -83.376398
         ],
         "geocoded": [
-          33.9597677,
+          33.959768,
           -83.376398
         ],
+        "geocode_query": "Athens, Georgia, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2290,9 +2311,10 @@
           -84.3898151
         ],
         "geocoded": [
-          33.7544657,
-          -84.3898151
+          33.754466,
+          -84.389815
         ],
+        "geocode_query": "Atlanta, Georgia, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2305,9 +2327,10 @@
           -84.3342686
         ],
         "geocoded": [
-          33.9463786,
-          -84.3342686
+          33.946379,
+          -84.334269
         ],
+        "geocode_query": "Dunwoody, Georgia, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2320,9 +2343,10 @@
           -116.7811531
         ],
         "geocoded": [
-          47.6742994,
-          -116.7811531
+          47.674299,
+          -116.781153
         ],
+        "geocode_query": "Coeur d'Alene, Idaho, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2335,9 +2359,10 @@
           -87.6244212
         ],
         "geocoded": [
-          41.8755616,
-          -87.6244212
+          41.875562,
+          -87.624421
         ],
+        "geocode_query": "Chicago, Illinois, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2350,9 +2375,10 @@
           -88.0102281
         ],
         "geocoded": [
-          41.7936822,
-          -88.0102281
+          41.793682,
+          -88.010228
         ],
+        "geocode_query": "Downers Grove, Illinois, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2365,9 +2391,10 @@
           -87.9084039
         ],
         "geocoded": [
-          42.1900249,
-          -87.9084039
+          42.190025,
+          -87.908404
         ],
+        "geocode_query": "Lincolnshire, Illinois, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2380,9 +2407,10 @@
           -87.816924
         ],
         "geocoded": [
-          41.6966397,
+          41.69664,
           -87.816924
         ],
+        "geocode_query": "Palos Hills, Illinois, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2395,9 +2423,10 @@
           -88.0792782
         ],
         "geocoded": [
-          42.0427256,
-          -88.0792782
+          42.042726,
+          -88.079278
         ],
+        "geocode_query": "Hoffman Estates, Illinois, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2410,9 +2439,10 @@
           -94.6851702
         ],
         "geocoded": [
-          38.9742502,
-          -94.6851702
+          38.97425,
+          -94.68517
         ],
+        "geocode_query": "Overland Park, Kansas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2425,9 +2455,10 @@
           -91.1869659
         ],
         "geocoded": [
-          30.4494155,
-          -91.1869659
+          30.449416,
+          -91.186966
         ],
+        "geocode_query": "Baton Rouge, Louisiana, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2440,9 +2471,10 @@
           -93.3204872
         ],
         "geocoded": [
-          44.8322405,
-          -93.3204872
+          44.83224,
+          -93.320487
         ],
+        "geocode_query": "Bloomington, Minnesota, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2456,8 +2488,9 @@
         ],
         "geocoded": [
           39.100105,
-          -94.5781416
+          -94.578142
         ],
+        "geocode_query": "Kansas City, Missouri, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2471,8 +2504,9 @@
         ],
         "geocoded": [
           35.595363,
-          -82.5508407
+          -82.550841
         ],
+        "geocode_query": "Asheville, North Carolina, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2485,9 +2519,10 @@
           -80.8430827
         ],
         "geocoded": [
-          35.2272086,
-          -80.8430827
+          35.227209,
+          -80.843083
         ],
+        "geocode_query": "Charlotte, North Carolina, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2500,9 +2535,10 @@
           -80.8430827
         ],
         "geocoded": [
-          35.2272086,
-          -80.8430827
+          35.227209,
+          -80.843083
         ],
+        "geocode_query": "Charlotte, North Carolina, United States",
         "distance_km": 0.13,
         "status": "VERIFIED"
       },
@@ -2515,9 +2551,10 @@
           -80.8422342
         ],
         "geocoded": [
-          35.2272086,
-          -80.8430827
+          35.227209,
+          -80.843083
         ],
+        "geocode_query": "Charlotte, North Carolina, United States",
         "distance_km": 0.12,
         "status": "VERIFIED"
       },
@@ -2530,9 +2567,10 @@
           -80.8418827
         ],
         "geocoded": [
-          35.2272086,
-          -80.8430827
+          35.227209,
+          -80.843083
         ],
+        "geocode_query": "Charlotte, North Carolina, United States",
         "distance_km": 0.11,
         "status": "VERIFIED"
       },
@@ -2545,9 +2583,10 @@
           -75.0307264
         ],
         "geocoded": [
-          39.9348351,
-          -75.0307264
+          39.934835,
+          -75.030726
         ],
+        "geocode_query": "Cherry Hill, New Jersey, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2560,9 +2599,10 @@
           -75.1235892
         ],
         "geocoded": [
-          39.8271755,
-          -75.1235892
+          39.827176,
+          -75.123589
         ],
+        "geocode_query": "Deptford, New Jersey, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2575,9 +2615,10 @@
           -106.650985
         ],
         "geocoded": [
-          35.0841034,
+          35.084103,
           -106.650985
         ],
+        "geocode_query": "Albuquerque, New Mexico, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2590,9 +2631,10 @@
           -114.9822716
         ],
         "geocoded": [
-          36.0319602,
-          -114.9822716
+          36.03196,
+          -114.982272
         ],
+        "geocode_query": "Henderson, Nevada, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2605,9 +2647,10 @@
           -115.1484131
         ],
         "geocoded": [
-          36.1674263,
-          -115.1484131
+          36.167426,
+          -115.148413
         ],
+        "geocode_query": "Las Vegas, Nevada, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2620,9 +2663,10 @@
           -115.1484131
         ],
         "geocoded": [
-          36.1674263,
-          -115.1484131
+          36.167426,
+          -115.148413
         ],
+        "geocode_query": "Las Vegas, Nevada, United States",
         "distance_km": 0.13,
         "status": "VERIFIED"
       },
@@ -2635,9 +2679,10 @@
           -115.1475646
         ],
         "geocoded": [
-          36.1674263,
-          -115.1484131
+          36.167426,
+          -115.148413
         ],
+        "geocode_query": "Las Vegas, Nevada, United States",
         "distance_km": 0.12,
         "status": "VERIFIED"
       },
@@ -2650,9 +2695,10 @@
           -115.1472131
         ],
         "geocoded": [
-          36.1674263,
-          -115.1484131
+          36.167426,
+          -115.148413
         ],
+        "geocode_query": "Las Vegas, Nevada, United States",
         "distance_km": 0.11,
         "status": "VERIFIED"
       },
@@ -2665,9 +2711,10 @@
           -119.812658
         ],
         "geocoded": [
-          39.5261788,
+          39.526179,
           -119.812658
         ],
+        "geocode_query": "Reno, Nevada, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2680,9 +2727,10 @@
           -83.0007065
         ],
         "geocoded": [
-          39.9622601,
-          -83.0007065
+          39.96226,
+          -83.000707
         ],
+        "geocode_query": "Columbus, Ohio, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2695,9 +2743,10 @@
           -95.9927516
         ],
         "geocoded": [
-          36.1563122,
-          -95.9927516
+          36.156312,
+          -95.992752
         ],
+        "geocode_query": "Tulsa, Oklahoma, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2710,9 +2759,10 @@
           -122.674194
         ],
         "geocoded": [
-          45.5202471,
+          45.520247,
           -122.674194
         ],
+        "geocode_query": "Portland, Oregon, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2725,10 +2775,11 @@
           -75.3193876
         ],
         "geocoded": [
-          40.0219856,
-          -75.3193876
+          40.023825,
+          -75.317341
         ],
-        "distance_km": 0.0,
+        "geocode_query": "Bryn Mawr, Pennsylvania, United States",
+        "distance_km": 0.27,
         "status": "VERIFIED"
       },
       {
@@ -2741,8 +2792,9 @@
         ],
         "geocoded": [
           34.000754,
-          -81.0352313
+          -81.035231
         ],
+        "geocode_query": "Columbia, South Carolina, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2755,9 +2807,10 @@
           -86.6722192
         ],
         "geocoded": [
-          36.0600602,
-          -86.6722192
+          36.06006,
+          -86.672219
         ],
+        "geocode_query": "Antioch, Tennessee, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2770,9 +2823,10 @@
           -85.3094883
         ],
         "geocoded": [
-          35.0457219,
-          -85.3094883
+          35.045722,
+          -85.309488
         ],
+        "geocode_query": "Chattanooga, Tennessee, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2785,9 +2839,10 @@
           -86.3921096
         ],
         "geocoded": [
-          35.8460396,
-          -86.3921096
+          35.84604,
+          -86.39211
         ],
+        "geocode_query": "Murfreesboro, Tennessee, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2800,9 +2855,10 @@
           -86.7742984
         ],
         "geocoded": [
-          36.1622767,
-          -86.7742984
+          36.162277,
+          -86.774298
         ],
+        "geocode_query": "Nashville, Tennessee, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2815,9 +2871,10 @@
           -97.7436995
         ],
         "geocoded": [
-          30.2711286,
-          -97.7436995
+          30.271129,
+          -97.7437
         ],
+        "geocode_query": "Austin, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2830,9 +2887,10 @@
           -97.7436995
         ],
         "geocoded": [
-          30.2711286,
-          -97.7436995
+          30.271129,
+          -97.7437
         ],
+        "geocode_query": "Austin, Texas, United States",
         "distance_km": 0.13,
         "status": "VERIFIED"
       },
@@ -2845,9 +2903,10 @@
           -95.4588299
         ],
         "geocoded": [
-          29.7057858,
-          -95.4588299
+          29.705786,
+          -95.45883
         ],
+        "geocode_query": "Bellaire, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2860,9 +2919,10 @@
           -96.3455991
         ],
         "geocoded": [
-          30.6183939,
-          -96.3455991
+          30.618394,
+          -96.345599
         ],
+        "geocode_query": "College Station, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2875,9 +2935,10 @@
           -97.0647322
         ],
         "geocoded": [
-          33.1540091,
-          -97.0647322
+          33.154009,
+          -97.064732
         ],
+        "geocode_query": "Corinth, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2890,9 +2951,10 @@
           -95.6971686
         ],
         "geocoded": [
-          29.9691116,
-          -95.6971686
+          29.969112,
+          -95.697169
         ],
+        "geocode_query": "Cypress, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2905,9 +2967,10 @@
           -96.7968559
         ],
         "geocoded": [
-          32.7762719,
-          -96.7968559
+          32.776272,
+          -96.796856
         ],
+        "geocode_query": "Dallas, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2920,9 +2983,10 @@
           -96.7968559
         ],
         "geocoded": [
-          32.7762719,
-          -96.7968559
+          32.776272,
+          -96.796856
         ],
+        "geocode_query": "Dallas, Texas, United States",
         "distance_km": 0.13,
         "status": "VERIFIED"
       },
@@ -2935,9 +2999,10 @@
           -95.2010447
         ],
         "geocoded": [
-          29.5293998,
-          -95.2010447
+          29.5294,
+          -95.201045
         ],
+        "geocode_query": "Friendswood, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2951,8 +3016,9 @@
         ],
         "geocoded": [
           33.091788,
-          -97.0466759
+          -97.046676
         ],
+        "geocode_query": "Highland Village, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2965,9 +3031,10 @@
           -95.3676974
         ],
         "geocoded": [
-          29.7589382,
-          -95.3676974
+          29.758938,
+          -95.367697
         ],
+        "geocode_query": "Houston, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2980,9 +3047,10 @@
           -95.3676974
         ],
         "geocoded": [
-          29.7589382,
-          -95.3676974
+          29.758938,
+          -95.367697
         ],
+        "geocode_query": "Houston, Texas, United States",
         "distance_km": 0.13,
         "status": "VERIFIED"
       },
@@ -2995,39 +3063,10 @@
           -95.3668489
         ],
         "geocoded": [
-          29.7589382,
-          -95.3676974
+          29.758938,
+          -95.367697
         ],
-        "distance_km": 0.12,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 91,
-        "city": "Houston",
-        "state": "TX",
-        "stored": [
-          29.7589382,
-          -95.3664974
-        ],
-        "geocoded": [
-          29.7589382,
-          -95.3676974
-        ],
-        "distance_km": 0.12,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 92,
-        "city": "Houston",
-        "state": "TX",
-        "stored": [
-          29.7580897,
-          -95.3668489
-        ],
-        "geocoded": [
-          29.7589382,
-          -95.3676974
-        ],
+        "geocode_query": "Houston, Texas, United States",
         "distance_km": 0.12,
         "status": "VERIFIED"
       },
@@ -3040,9 +3079,10 @@
           -95.8243956
         ],
         "geocoded": [
-          29.7857853,
-          -95.8243956
+          29.785785,
+          -95.824396
         ],
+        "geocode_query": "Katy, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3056,8 +3096,9 @@
         ],
         "geocoded": [
           32.563487,
-          -97.1420308
+          -97.142031
         ],
+        "geocode_query": "Mansfield, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3070,9 +3111,10 @@
           -95.2864299
         ],
         "geocoded": [
-          29.5639758,
-          -95.2864299
+          29.563976,
+          -95.28643
         ],
+        "geocode_query": "Pearland, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3085,9 +3127,10 @@
           -97.6788056
         ],
         "geocoded": [
-          30.5085915,
-          -97.6788056
+          30.508592,
+          -97.678806
         ],
+        "geocode_query": "Round Rock, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3100,9 +3143,10 @@
           -98.4951405
         ],
         "geocoded": [
-          29.4246002,
-          -98.4951405
+          29.4246,
+          -98.495141
         ],
+        "geocode_query": "San Antonio, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3115,9 +3159,10 @@
           -98.4951405
         ],
         "geocoded": [
-          29.4246002,
-          -98.4951405
+          29.4246,
+          -98.495141
         ],
+        "geocode_query": "San Antonio, Texas, United States",
         "distance_km": 0.13,
         "status": "VERIFIED"
       },
@@ -3130,10 +3175,11 @@
           -95.4187924
         ],
         "geocoded": [
-          30.0795707,
-          -95.4187924
+          30.070979,
+          -95.401342
         ],
-        "distance_km": 0.0,
+        "geocode_query": "Spring, Texas, United States",
+        "distance_km": 1.93,
         "status": "VERIFIED"
       },
       {
@@ -3145,10 +3191,11 @@
           -95.4187924
         ],
         "geocoded": [
-          30.0795707,
-          -95.4187924
+          30.070979,
+          -95.401342
         ],
-        "distance_km": 0.13,
+        "geocode_query": "Spring, Texas, United States",
+        "distance_km": 2.0,
         "status": "VERIFIED"
       },
       {
@@ -3160,9 +3207,10 @@
           -95.6349463
         ],
         "geocoded": [
-          29.6196787,
-          -95.6349463
+          29.619679,
+          -95.634946
         ],
+        "geocode_query": "Sugar Land, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3175,9 +3223,10 @@
           -111.7959146
         ],
         "geocoded": [
-          40.3768064,
-          -111.7959146
+          40.376806,
+          -111.795915
         ],
+        "geocode_query": "American Fork, Utah, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3190,9 +3239,10 @@
           -111.8804817
         ],
         "geocoded": [
-          40.8894611,
-          -111.8804817
+          40.889461,
+          -111.880482
         ],
+        "geocode_query": "Bountiful, Utah, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3205,9 +3255,10 @@
           -111.8627989
         ],
         "geocoded": [
-          40.5247777,
-          -111.8627989
+          40.524778,
+          -111.862799
         ],
+        "geocode_query": "Draper, Utah, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3220,9 +3271,10 @@
           -111.9106607
         ],
         "geocoded": [
-          40.6149174,
-          -111.9106607
+          40.614917,
+          -111.910661
         ],
+        "geocode_query": "Midvale, Utah, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3235,9 +3287,10 @@
           -111.9738429
         ],
         "geocoded": [
-          41.2230048,
-          -111.9738429
+          41.223005,
+          -111.973843
         ],
+        "geocode_query": "Ogden, Utah, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3250,9 +3303,10 @@
           -113.5832063
         ],
         "geocoded": [
-          37.1098772,
-          -113.5832063
+          37.109877,
+          -113.583206
         ],
+        "geocode_query": "St George, Utah, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3265,9 +3319,10 @@
           -77.0470229
         ],
         "geocoded": [
-          38.8051095,
-          -77.0470229
+          38.80511,
+          -77.047023
         ],
+        "geocode_query": "Alexandria, Virginia, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3280,10 +3335,11 @@
           -77.5189032
         ],
         "geocoded": [
-          37.6294756,
-          -77.5189032
+          37.513119,
+          -77.346508
         ],
-        "distance_km": 0.0,
+        "geocode_query": "Henrico, Virginia, United States",
+        "distance_km": 19.96,
         "status": "VERIFIED"
       },
       {
@@ -3295,9 +3351,10 @@
           -77.2651762
         ],
         "geocoded": [
-          38.9013729,
-          -77.2651762
+          38.901373,
+          -77.265176
         ],
+        "geocode_query": "Vienna, Virginia, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3310,9 +3367,10 @@
           -111.651822
         ],
         "geocoded": [
-          35.1987522,
+          35.198752,
           -111.651822
         ],
+        "geocode_query": "Flagstaff, Arizona, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3325,9 +3383,10 @@
           -116.392326
         ],
         "geocoded": [
-          43.6086295,
+          43.608629,
           -116.392326
         ],
+        "geocode_query": "Meridian, Idaho, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3340,9 +3399,10 @@
           -81.3442915
         ],
         "geocoded": [
-          35.7333312,
-          -81.3442915
+          35.733331,
+          -81.344291
         ],
+        "geocode_query": "Hickory, North Carolina, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -3355,15 +3415,48 @@
           -75.0939834
         ],
         "geocoded": [
-          39.9416808,
-          -75.0939834
+          39.900559,
+          -74.933891
         ],
-        "distance_km": 0.0,
+        "geocode_query": "Marlton, New Jersey, United States",
+        "distance_km": 14.4,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 91,
+        "city": "Houston",
+        "state": "TX",
+        "stored": [
+          29.7589382,
+          -95.3664974
+        ],
+        "geocoded": [
+          29.758938,
+          -95.367697
+        ],
+        "geocode_query": "Houston, Texas, United States",
+        "distance_km": 0.12,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 92,
+        "city": "Houston",
+        "state": "TX",
+        "stored": [
+          29.7580897,
+          -95.3668489
+        ],
+        "geocoded": [
+          29.758938,
+          -95.367697
+        ],
+        "geocode_query": "Houston, Texas, United States",
+        "distance_km": 0.12,
         "status": "VERIFIED"
       }
     ]
   },
-  "pinsUpdatedAt": "2026-09-13T01:39:16Z",
+  "pinsUpdatedAt": "2026-09-15T02:47:54.179512+00:00",
   "corporateAddress": "151 N. Centennial Way, Mesa, Arizona 85201",
   "corporateAddress_source": "FDD Item 1 (franchisor business address)",
   "risk_score": 54,
@@ -3420,5 +3513,7 @@
       "note": "franchising since 2021 (Item 1 p8)"
     }
   ],
-  "risk_source": "build_fields.py additive inputs"
+  "risk_source": "build_fields.py additive inputs",
+  "logoUrl": "https://www.hellosugar.salon/images/logo.png",
+  "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*"
 }

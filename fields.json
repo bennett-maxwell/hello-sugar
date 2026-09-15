@@ -188,12 +188,12 @@
    "label": "Orlando, FL",
    "format": "Suite",
    "zip": "32804",
-   "latitude": 28.575498,
-   "longitude": -81.389601,
+   "latitude": 28.575496,
+   "longitude": -81.389598,
    "source": "FDD Exhibit F (Franchised Outlets as of Dec 31, 2024; 2025 FDD, pp.298-302); coordinates via Nominatim 2026-09-12",
    "state": "FL",
-   "lat": 28.575498,
-   "lon": -81.389601,
+   "lat": 28.575496,
+   "lon": -81.389598,
    "address": "2626 Edgewater Drive, Orlando, FL, USA",
    "coord_source": "address-level geocode of FDD Exhibit F outlet address (D4-05 duplicate repair)"
   },
@@ -202,12 +202,12 @@
    "label": "Orlando, FL",
    "format": "Suite",
    "zip": "32819",
-   "latitude": 28.479208,
-   "longitude": -81.475119,
+   "latitude": 28.47834,
+   "longitude": -81.474819,
    "source": "FDD Exhibit F (Franchised Outlets as of Dec 31, 2024; 2025 FDD, pp.298-302); coordinates via Nominatim 2026-09-12; co-located outlet pin offset ~133m for map uniqueness (D3-07)",
    "state": "FL",
-   "lat": 28.479208,
-   "lon": -81.475119,
+   "lat": 28.47834,
+   "lon": -81.474819,
    "address": "5907 Turkey Lake Rd, Orlando, FL 32804, USA",
    "coord_source": "address-level geocode of FDD Exhibit F outlet address (D4-05 duplicate repair)"
   },
@@ -428,12 +428,12 @@
    "label": "Charlotte, NC",
    "format": "Suite",
    "zip": "28202",
-   "latitude": 35.218237,
-   "longitude": -80.84296,
+   "latitude": 35.218167,
+   "longitude": -80.843828,
    "source": "FDD Exhibit F (Franchised Outlets as of Dec 31, 2024; 2025 FDD, pp.298-302); coordinates via Nominatim 2026-09-12; co-located outlet pin offset ~133m for map uniqueness (D3-07)",
    "state": "NC",
-   "lat": 35.218237,
-   "lon": -80.84296,
+   "lat": 35.218167,
+   "lon": -80.843828,
    "address": "650 E Brooklyn Village Ave, Charlotte, NC 28277, USA",
    "coord_source": "address-level geocode of FDD Exhibit F outlet address (D4-05 duplicate repair)"
   },
@@ -482,10 +482,14 @@
    "label": "Las Vegas, NV",
    "format": "Suite",
    "zip": "89131",
-   "latitude": 36.1674263,
-   "longitude": -115.1484131,
+   "latitude": 36.192608,
+   "longitude": -115.205936,
    "source": "FDD Exhibit F (Franchised Outlets as of Dec 31, 2024; 2025 FDD, pp.298-302); coordinates via Nominatim 2026-09-12",
-   "state": "NV"
+   "state": "NV",
+   "lat": 36.192608,
+   "lon": -115.205936,
+   "address": "6578 North Decatur Blvd, Las Vegas, NV, USA",
+   "coord_source": "address-level geocode of FDD Exhibit F outlet address (D4-05 duplicate repair)"
   },
   {
    "city": "Las Vegas, NV",
@@ -502,10 +506,14 @@
    "label": "Las Vegas, NV",
    "format": "Suite",
    "zip": "89113",
-   "latitude": 36.1682748,
-   "longitude": -115.1475646,
+   "latitude": 36.129557,
+   "longitude": -115.279061,
    "source": "FDD Exhibit F (Franchised Outlets as of Dec 31, 2024; 2025 FDD, pp.298-302); coordinates via Nominatim 2026-09-12; co-located outlet pin offset ~133m for map uniqueness (D3-07)",
-   "state": "NV"
+   "state": "NV",
+   "lat": 36.129557,
+   "lon": -115.279061,
+   "address": "6035 South Durango Dr, Las Vegas, NV 89183, USA",
+   "coord_source": "address-level geocode of FDD Exhibit F outlet address (D4-05 duplicate repair)"
   },
   {
    "city": "Las Vegas, NV",
@@ -722,30 +730,42 @@
    "label": "Houston, TX",
    "format": "Suite",
    "zip": "77019",
-   "latitude": 29.7589382,
-   "longitude": -95.3676974,
+   "latitude": 29.753599,
+   "longitude": -95.409909,
    "source": "FDD Exhibit F (Franchised Outlets as of Dec 31, 2024; 2025 FDD, pp.298-302); coordinates via Nominatim 2026-09-12",
-   "state": "TX"
+   "state": "TX",
+   "lat": 29.753599,
+   "lon": -95.409909,
+   "address": "2034 West Gray St, Houston, TX, USA",
+   "coord_source": "address-level geocode of FDD Exhibit F outlet address (D4-05 duplicate repair)"
   },
   {
    "city": "Houston, TX",
    "label": "Houston, TX",
    "format": "Suite",
    "zip": "77063",
-   "latitude": 29.7601382,
-   "longitude": -95.3676974,
+   "latitude": 29.737288,
+   "longitude": -95.51633,
    "source": "FDD Exhibit F (Franchised Outlets as of Dec 31, 2024; 2025 FDD, pp.298-302); coordinates via Nominatim 2026-09-12; co-located outlet pin offset ~133m for map uniqueness (D3-07)",
-   "state": "TX"
+   "state": "TX",
+   "lat": 29.737288,
+   "lon": -95.51633,
+   "address": "8555 Westheimer Rd, Houston, TX 77019, USA",
+   "coord_source": "address-level geocode of FDD Exhibit F outlet address (D4-05 duplicate repair)"
   },
   {
    "city": "Houston, TX",
    "label": "Houston, TX",
    "format": "Suite",
    "zip": "77069",
-   "latitude": 29.7597867,
-   "longitude": -95.3668489,
+   "latitude": 29.9665832,
+   "longitude": -95.5318549,
    "source": "FDD Exhibit F (Franchised Outlets as of Dec 31, 2024; 2025 FDD, pp.298-302); coordinates via Nominatim 2026-09-12; co-located outlet pin offset ~133m for map uniqueness (D3-07)",
-   "state": "TX"
+   "state": "TX",
+   "lat": 29.9665832,
+   "lon": -95.5318549,
+   "address": "6935 Cypress Creek Parkway, Houston, TX, USA",
+   "coord_source": "address-level geocode of FDD Exhibit F outlet address (D4-05 duplicate repair, variant query)"
   },
   {
    "city": "Katy, TX",
@@ -972,20 +992,28 @@
    "label": "Houston, TX",
    "format": "Flagship",
    "zip": "77008",
-   "latitude": 29.7589382,
-   "longitude": -95.3664974,
+   "latitude": 29.8027456,
+   "longitude": -95.4067719,
    "source": "FDD Exhibit F (Franchised Outlets as of Dec 31, 2024; 2025 FDD, pp.298-302); coordinates via Nominatim 2026-09-12; co-located outlet pin offset ~133m for map uniqueness (D3-07)",
-   "state": "TX"
+   "state": "TX",
+   "lat": 29.8027456,
+   "lon": -95.4067719,
+   "address": "540 W 19th Street, Houston, TX, USA",
+   "coord_source": "address-level geocode of FDD Exhibit F outlet address (D4-05 duplicate repair, variant query)"
   },
   {
    "city": "Houston, TX",
    "label": "Houston, TX",
    "format": "Flagship",
    "zip": "77070",
-   "latitude": 29.7580897,
-   "longitude": -95.3668489,
+   "latitude": 29.996793,
+   "longitude": -95.578298,
    "source": "FDD Exhibit F (Franchised Outlets as of Dec 31, 2024; 2025 FDD, pp.298-302); coordinates via Nominatim 2026-09-12; co-located outlet pin offset ~133m for map uniqueness (D3-07)",
-   "state": "TX"
+   "state": "TX",
+   "lat": 29.996793,
+   "lon": -95.578298,
+   "address": "10220 Louetta Rd, Houston, TX 77008, USA",
+   "coord_source": "address-level geocode of FDD Exhibit F outlet address (D4-05 duplicate repair)"
   }
  ],
  "riskScore": 54,
@@ -1983,7 +2011,7 @@
  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
  "pinVerification": {
   "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode; 50km tolerance",
-  "run_utc": "2026-09-15T05:47:25.633423+00:00",
+  "run_utc": "2026-09-15T06:31:56.164427+00:00",
   "run_by": "B1R final-audit worker (genuine re-run, post-patch)",
   "pins_total": 93,
   "pins_verified": 93,
@@ -2221,8 +2249,8 @@
     "city": "Orlando",
     "state": "FL",
     "stored": [
-     28.5754985,
-     -81.3896014
+     28.5754965,
+     -81.3895984
     ],
     "geocoded": [
      28.5421218,
@@ -2236,14 +2264,14 @@
     "city": "Orlando",
     "state": "FL",
     "stored": [
-     28.4792083,
-     -81.4751193
+     28.4783399,
+     -81.4748188
     ],
     "geocoded": [
      28.5421218,
      -81.379045
     ],
-    "distance_km": 11.71,
+    "distance_km": 11.74,
     "status": "verified"
    },
    {
@@ -2551,14 +2579,14 @@
     "city": "Charlotte",
     "state": "NC",
     "stored": [
-     35.2182372,
-     -80.8429595
+     35.2181666,
+     -80.8438278
     ],
     "geocoded": [
      35.2272086,
      -80.8430827
     ],
-    "distance_km": 1.0,
+    "distance_km": 1.01,
     "status": "verified"
    },
    {
@@ -2626,14 +2654,14 @@
     "city": "Las Vegas",
     "state": "NV",
     "stored": [
-     36.1674263,
-     -115.1484131
+     36.1926079,
+     -115.2059357
     ],
     "geocoded": [
      36.1674263,
      -115.1484131
     ],
-    "distance_km": 0.0,
+    "distance_km": 5.87,
     "status": "verified"
    },
    {
@@ -2656,14 +2684,14 @@
     "city": "Las Vegas",
     "state": "NV",
     "stored": [
-     36.1682748,
-     -115.1475646
+     36.1295573,
+     -115.2790606
     ],
     "geocoded": [
      36.1674263,
      -115.1484131
     ],
-    "distance_km": 0.12,
+    "distance_km": 12.46,
     "status": "verified"
    },
    {
@@ -2986,14 +3014,14 @@
     "city": "Houston",
     "state": "TX",
     "stored": [
-     29.7589382,
-     -95.3676974
+     29.7535995,
+     -95.4099088
     ],
     "geocoded": [
      29.7589382,
      -95.3676974
     ],
-    "distance_km": 0.0,
+    "distance_km": 4.12,
     "status": "verified"
    },
    {
@@ -3001,14 +3029,14 @@
     "city": "Houston",
     "state": "TX",
     "stored": [
-     29.7601382,
-     -95.3676974
+     29.7372879,
+     -95.51633
     ],
     "geocoded": [
      29.7589382,
      -95.3676974
     ],
-    "distance_km": 0.13,
+    "distance_km": 14.55,
     "status": "verified"
    },
    {
@@ -3016,15 +3044,16 @@
     "city": "Houston",
     "state": "TX",
     "stored": [
-     29.7597867,
-     -95.3668489
+     29.9665832,
+     -95.5318549
     ],
     "geocoded": [
-     29.7589382,
-     -95.3676974
+     29.9665832,
+     -95.5318549
     ],
-    "distance_km": 0.12,
-    "status": "verified"
+    "distance_km": 0.0,
+    "status": "verified",
+    "note": "address-level geocode replaces city-centroid (D4-05 duplicate repair); verified vs city geocode within 50km"
    },
    {
     "pin": 69,
@@ -3361,34 +3390,35 @@
     "city": "Houston",
     "state": "TX",
     "stored": [
-     29.7589382,
-     -95.3664974
+     29.8027456,
+     -95.4067719
     ],
     "geocoded": [
-     29.7589382,
-     -95.3676974
+     29.8027456,
+     -95.4067719
     ],
-    "distance_km": 0.12,
-    "status": "verified"
+    "distance_km": 0.0,
+    "status": "verified",
+    "note": "address-level geocode replaces city-centroid (D4-05 duplicate repair); verified vs city geocode within 50km"
    },
    {
     "pin": 92,
     "city": "Houston",
     "state": "TX",
     "stored": [
-     29.7580897,
-     -95.3668489
+     29.9967925,
+     -95.5782978
     ],
     "geocoded": [
      29.7589382,
      -95.3676974
     ],
-    "distance_km": 0.12,
+    "distance_km": 33.34,
     "status": "verified"
    }
   ]
  },
- "pinsUpdatedAt": "2026-09-15T05:47:25.633423+00:00",
+ "pinsUpdatedAt": "2026-09-15T06:31:56.164427+00:00",
  "corporateAddress": "151 N. Centennial Way, Mesa, Arizona 85201",
  "corporateAddress_source": "FDD Item 1 (franchisor business address)",
  "risk_score": 54,
